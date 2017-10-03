@@ -1,5 +1,5 @@
 # TopDownShooter
-In this game your goal is to reach the end of the level and kill the final boss. To play download the game <a href="https://drive.google.com/uc?export=download&id=0B7q_xJk0vqRHS2szdG5QS0RMbUU">here</a> and extract it. The exe to play can be found in JunaryGame\Binaries\Win64
+In this game your goal is to reach the end of the level and kill the final boss. To play download the game <a href="https://drive.google.com/uc?export=download&id=0B7q_xJk0vqRHS2szdG5QS0RMbUU">here</a> and extract the files.
 
 This game was made in Unreal Engine 4 and c++.
 <h2>How to Play:</h2>
